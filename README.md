@@ -1,2 +1,2 @@
 # Web API com MongoDB
-API básica com MongoDB �
+API básica com MongoDB :ghost:
